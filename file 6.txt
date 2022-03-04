@@ -1,3 +1,4 @@
 file 6 added
 added some lines
 adding line 3
+edited file 6 in remote
